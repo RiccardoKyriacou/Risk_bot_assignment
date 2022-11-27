@@ -1,3 +1,3 @@
-# Dil-s_hw_thing
+# Risk Bot Assignment
 
 Risk bot to analyse data in given list - UNFINISHED
