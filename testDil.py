@@ -74,6 +74,7 @@ def row_3():
 
 #Row 4...
 #TODO define get_cancer_list_4 then def row_4()
+#TODO repeat for rows, 4-8
 
 def main():
     return row_1(), row_2(), row_3()
